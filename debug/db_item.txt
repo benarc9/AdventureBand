@@ -1,0 +1,25 @@
+Name: IceCrown
+ Pos: (8, 14)
+Test: IceCrown
+Slot: head
+
+Name: IceCrown
+ Pos: (7, 12)
+Test: IceCrown
+Slot: head
+
+Name: IceCrown
+ Pos: (15, 30)
+Test: IceCrown
+Slot: head
+
+Name: Classic
+ Pos: (29, 19)
+Test: Classic
+Slot: right_hand
+
+Name: IceCrown
+ Pos: (15, 24)
+Test: IceCrown
+Slot: head
+
