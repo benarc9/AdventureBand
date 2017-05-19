@@ -6,6 +6,10 @@ Written completely in Lua and makes use of the Love2D engine. All of the rogueli
 # State
 I stopped working on this project in order to focus on college so it remains unfinished. Also, you may have a tough time getting it up and running due my failed attempt to implement a entity-component based architecture before I was completely familiar with that type of system.
 
+The ECS is only partially implemented so there are bound to be many bugs preventing it from running but the code written is solid and might be useful to someone trying to get a handle on how to do OOP in Lua which can be tricky for those new to the language.
+
+Notable code include the map generation and line-of-sight systems which are both original implementations.
+
 # License
 
 Copyright (c) <2015> <copyright Ben Arceneaux>
